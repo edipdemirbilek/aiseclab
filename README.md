@@ -1,4 +1,4 @@
-# Sec Lab: Deep Dives into AI Security
+# Sec Lab: Deep Dives into Cyber Security
 
 ## Welcome to the blog!
 
